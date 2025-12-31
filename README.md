@@ -16,6 +16,9 @@ Error Handling and ThunderClient Testing.
 
 ---
 
+## clone the repo using below command 
+git clone https://github.com/vsirish123/E-commerce.git
+
 ## Installation & Setup
 npm init -y (for node.js)
 
